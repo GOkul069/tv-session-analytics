@@ -1,0 +1,5 @@
+scenario,"monthly saving (USD, sample)",saving as % of incremental storage,sessions at risk,at-risk % of time-shift sessions,at-risk % of all viewing sessions
+A. StartOver 24h -> 4h,945.6636,0.0821,0.0,0.0,0.0
+"B. Catch-up 7d -> 3d, low-use channels",864.2952,0.075,349.0,0.0026,0.0004
+"C. Catch-up 7d -> 3d, all 7-day channels",1696.5387,0.1472,4181.0,0.0309,0.0045
+A + B combined,1809.9588,0.1571,349.0,0.0026,0.0004

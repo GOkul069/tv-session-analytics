@@ -1,0 +1,3 @@
+storage_tier,usd_per_gb_month,description
+hot,0.045,low-latency SSD origin cache
+standard,0.021,"object storage, standard class"

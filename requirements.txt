@@ -1,0 +1,8 @@
+pandas>=3.0,<4
+numpy>=2.0,<3
+matplotlib>=3.8,<4
+jupyter>=1.0,<2
+nbconvert>=7.0,<8
+ipykernel>=6.0,<8
+# Production job only (not needed for the notebooks):
+# pyspark>=3.4,<4
